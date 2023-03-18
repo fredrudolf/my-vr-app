@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-vr-app/static/css/main.073c9b0a.css",
+    "main.js": "/my-vr-app/static/js/main.1b55ce35.js",
+    "static/js/787.cd473f94.chunk.js": "/my-vr-app/static/js/787.cd473f94.chunk.js",
+    "index.html": "/my-vr-app/index.html",
+    "main.073c9b0a.css.map": "/my-vr-app/static/css/main.073c9b0a.css.map",
+    "main.1b55ce35.js.map": "/my-vr-app/static/js/main.1b55ce35.js.map",
+    "787.cd473f94.chunk.js.map": "/my-vr-app/static/js/787.cd473f94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1b55ce35.js"
+  ]
+}
